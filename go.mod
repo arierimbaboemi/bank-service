@@ -23,8 +23,8 @@ require (
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/arierimbaboemi/bank-service-auth v0.0.1
-	github.com/arierimbaboemi/bank-service-lib v0.0.2-Beta-3
+	github.com/arierimbaboemi/bank-auth-service v0.0.1
+	github.com/arierimbaboemi/bank-lib-service v0.0.1
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 	github.com/rs/zerolog v1.33.0 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
