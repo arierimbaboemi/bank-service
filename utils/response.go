@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	logger "github.com/arierimbaboemi/bank-lib-service/config"
-	"github.com/arierimbaboemi/go-banking/dto"
+	"github.com/arierimbaboemi/bank-service/dto"
 )
 
 func ResponseJSON(w http.ResponseWriter, data interface{}, code int, status string, message string) {

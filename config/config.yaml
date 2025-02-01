@@ -7,8 +7,8 @@ server:
   apikey: arierimbaboemi
 database:
   user: root
-  password: haha
+  password: Purw0Kert@
   host: localhost
   port: 3306
-  name: bank
+  name: banking_service
   driver: mysql

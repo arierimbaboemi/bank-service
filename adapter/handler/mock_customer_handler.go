@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	logger "github.com/arierimbaboemi/bank-lib-service/config"
-	"github.com/arierimbaboemi/go-banking/domain"
-	"github.com/arierimbaboemi/go-banking/service"
+	"github.com/arierimbaboemi/bank-service/domain"
+	"github.com/arierimbaboemi/bank-service/service"
 )
 
 type CustomerHandler struct {

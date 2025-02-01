@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/arierimbaboemi/go-banking/domain"
+	"github.com/arierimbaboemi/bank-service/domain"
 
 	logger "github.com/arierimbaboemi/bank-lib-service/config"
 	"github.com/jmoiron/sqlx"

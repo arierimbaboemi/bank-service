@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/arierimbaboemi/go-banking/domain"
-	"github.com/arierimbaboemi/go-banking/dto"
-	"github.com/arierimbaboemi/go-banking/service"
-	"github.com/arierimbaboemi/go-banking/utils"
+	"github.com/arierimbaboemi/bank-service/domain"
+	"github.com/arierimbaboemi/bank-service/dto"
+	"github.com/arierimbaboemi/bank-service/service"
+	"github.com/arierimbaboemi/bank-service/utils"
 
 	logger "github.com/arierimbaboemi/bank-lib-service/config"
 	"github.com/go-playground/validator/v10"
